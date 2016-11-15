@@ -1,0 +1,64 @@
+.page-info{
+    text-align : justify;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+h1{
+    text-transform: full-width;
+    font-weight:bold;
+    text-align: center;
+}
+img{
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    height: auto;
+    width: auto/9; /* Bug de ie8 */
+}
+#inicio{
+    background-color: #282828;
+    color: gainsboro;
+}
+#antecedentes{
+    background-color: gainsboro;
+    color:grey;
+}
+#propuesta{
+    color:gray;
+}
+#awareness{
+    background-image: url(cg.jpg);
+    color:white;
+}
+#competencia{
+    color: gray;
+}
+#utilidad{
+    background-color: #9b154b;
+    color:white;
+}
+#pendientes{
+    background-color: gainsboro;
+    color: gray;
+}
+#ingresos{
+    color:grey;
+}
+#razones{
+    color:gray;
+    background-color: gainsboro;
+}
+#inversion{
+    color:white;
+    background-color: #9b154b;
+}
+#condiciones{
+    color:gray;
+}
+#contacto{
+    background-color: black;
+    color:gainsboro;
+}
